@@ -13,3 +13,6 @@ A [vacinação](https://pt-br.facebook.com/prefeituradesf/photos/a.1959851774156
 [Após um ano desde do Decreto nº 3.826](https://pt-br.facebook.com/prefeituradesf/photos/a.419018091573643/2052390514903051/?type=3&theater) o município totalizou 70 óbitos.
 
 Abril de 2021 foi o mês mais letal da pandemia, tendo 18 óbitos confirmados [¹](https://pt-br.facebook.com/prefeituradesf/photos/a.418999001575552/2061026367372799/?type=3&theater) [²](https://pt-br.facebook.com/prefeituradesf/photos/a.418999001575552/2083334838475285/?type=3&theater).
+
+
+## [Relação de Vacinados Contra COVID-19](https://saofidelis.rj.gov.br/relacao-de-vacinados-contra-covid-19/)
