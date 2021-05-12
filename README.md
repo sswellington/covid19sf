@@ -8,7 +8,7 @@ Os primeiros casos suspeitos foram relatados na última semana de março.
 Sendo o primeiro caso confirmado informado pela prefeitura dia 08 de Abril de 2020 por intermédio do [Decreto nº 3.837](https://saofidelis.rj.gov.br/wp-content/uploads/2020/04/Edi%C3%A7%C3%A3o-653.pdf). 
 O primeiro óbito confirmado por meio do relato pela prefeitura dia 24 de Abril de 2020 por intermédio da [página do facebook](https://pt-br.facebook.com/prefeituradesf/photos/a.419018091573643/1749911648484274/?type=3&theater).
 
-A [vacinação](https://pt-br.facebook.com/prefeituradesf/photos/a.1959851774156926/2015344288607674/?type=3&theater) em começou em 08 de Fevereiro de 2021.
+A [primeira vacinação](https://www.facebook.com/prefeituradesf/photos/a.1959851774156926/2004752943000142/?type=3&theater) foi realizada em 20 de Janeiro de 2021. Já, aos demais [profissionais de saúde](https://pt-br.facebook.com/prefeituradesf/photos/a.1959851774156926/2015344288607674/?type=3&theater) começou em 08 de Fevereiro de 2021.
 
 [Após um ano desde do Decreto nº 3.826](https://pt-br.facebook.com/prefeituradesf/photos/a.419018091573643/2052390514903051/?type=3&theater) o município totalizou 70 óbitos.
 
@@ -16,3 +16,5 @@ Abril de 2021 foi o mês mais letal da pandemia, tendo 18 óbitos confirmados [�
 
 
 ## [Relação de Vacinados Contra COVID-19](https://saofidelis.rj.gov.br/relacao-de-vacinados-contra-covid-19/)
+
+* [Linha do tempo da vacinação](https://github.com/sswellington/covid19sf/tree/main/dataset/pdf/)
